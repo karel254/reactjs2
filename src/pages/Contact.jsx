@@ -5,7 +5,7 @@ function Contact() {
   return (
     <section id='contact'>
     <span className="contactTittle">Our Contacts</span>
-    <span className="contactDesc">For more services that might require online assistance or query purposes, you can contact us on the following handles.</span>
+    <span className="contactDesc bg-secondary text-white">For more services that might require online assistance or query purposes, you can contact us on the following handles.</span>
 <div className="contactBars">
     <div className="contactBar">
        
