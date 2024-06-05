@@ -1,7 +1,7 @@
-.us{
+#us{
     overflow: hidden;
     width: 100vw;
-    max-width: 65rem;
+   
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -9,6 +9,7 @@
     text-align: center;
     margin: 0 auto;
     background-color: black;
+    color: aliceblue;
 }
 
 .teamTittle{
@@ -26,9 +27,9 @@
 }
 
 .teamBars{
-    margin: 1.5rem;
+   
     width: 100vw;
-    max-width:80%;
+    max-width:100%;
     text-align:left;
 }
 

@@ -1,6 +1,6 @@
 const appLinks = {
     Landing: "/",
-    Dashboard: "/dashboard",
+    Dashboard: "/services",
     AboutUs: "/about-us",
     Contact: "/contact",
   };

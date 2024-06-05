@@ -1,5 +1,4 @@
 .container-fluid {
-    background-color: rgb(5, 5, 53);
     color: aliceblue;
 padding: auto;}
 
@@ -27,8 +26,8 @@ padding: auto;}
     color:bisque;
     padding-bottom: 0.5rem;      }
 
-    .navbar-nav .nav-link:active {
-      background-color: rgb(125, 125, 219);
+    .active {
+      background-color: rgb(205, 205, 219);
       color: azure;
       display: flex;
       padding: 0.5rem;

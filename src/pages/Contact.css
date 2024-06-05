@@ -1,14 +1,15 @@
-.contact{
+#contact{
     overflow: hidden;
     width: 100vw;
-    max-width: 65rem;
+    
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     text-align: center;
     margin: 0 auto;
-    background: violet;
+    background: rgb(61, 2, 61);
+    color: aliceblue;
 
 }
 

@@ -3,7 +3,7 @@ import './Contact.css'
 
 function Contact() {
   return (
-    <section id='contacts'>
+    <section id='contact'>
     <span className="contactTittle">Our Contacts</span>
     <span className="contactDesc">For more services that might require online assistance or query purposes, you can contact us on the following handles.</span>
 <div className="contactBars">

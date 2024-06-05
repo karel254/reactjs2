@@ -4,8 +4,8 @@ import { appLinks } from "../constants/Links";
 import "./Navbar.css";
 function Navbar() {
   return (
-    <nav className="navbar navbar-expand-lg bg-body-tertiary">
-      <div className="container-fluid">
+    <nav className="navbar navbar-expand-lg bg-secondary">
+      <div className="container-fluid bg-primary">
         <Link to={appLinks?.Landing} className="navbar-brand">
           Home
         </Link>
