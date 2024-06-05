@@ -1,6 +1,6 @@
 import React from 'react'
 import './Landing.css';
-
+import bg from  "../assets/Dalle(2).jpg";
 function Landing() {
   return (<section id="landing">
   <div className="landingContent">
@@ -10,7 +10,7 @@ function Landing() {
       </div>
 
   </div>
-  
+  <img src={bg} alt="Profile" width="1000000" height="100000" className="bg"/>
 
  </section>
   )

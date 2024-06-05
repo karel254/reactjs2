@@ -18,7 +18,7 @@ function Navbar() {
             </li>
             <li className="nav-item">
             <Link className="nav-link" to={appLinks?.AboutUs}>
-                About Us
+               Meet Our Team
               </Link>
             </li>
             <li className="nav-item">

@@ -4,7 +4,7 @@ import './Dashboard.css'
 function Dashboard() {
   return (
     <section id='dash'>
-    <span className="skillTittle">About Us</span>
+    <span className="skillTittle">Our Services</span>
     <span className="skillDesc">We are skilled and passionate Software engineers with experience in web design, development, and testing.We have a strong understanding of Software applications and a keen eye for detail.</span>
 <div className="skillBars">
     <div className="skillBar">
