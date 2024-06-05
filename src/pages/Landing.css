@@ -1,0 +1,35 @@
+.landing{
+    height: calc(100vh - 5rem);
+    width: 100vw;
+    max-width: 75rem;
+    margin: 0 auto;
+    overflow:hidden;
+    background-color: black;
+
+}
+
+
+.landingContent{
+    height: 100vh;
+    width: 100vw;
+    padding: 1rem;
+    font-size: 1.8rem;
+    font-weight: 700;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background:rgb(18, 5, 54) ;
+    color: #ebdddd;
+}
+
+.hello{
+    font-size: 1rem;
+    font-weight: 700;
+}
+.landingName{
+    color:aqua;
+}
+.landingPara{
+    font-size: 1.5rem;
+    font-weight: 300;
+}
