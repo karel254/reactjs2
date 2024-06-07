@@ -1,8 +1,9 @@
 #landing{
-    height: calc(100vh - 5rem);
+   
     width: 100vw;
-    max-width: 75rem;
-    margin: 0 auto;
+    max-width: 100rem;
+    height: 100vh;
+    
     overflow:hidden;
     background-image: inherit;
     background: rgb(1, 14, 37);
@@ -24,7 +25,7 @@
 }
 
 .hello{
-    margin-top: -2cm;
+   
 
     font-size: 2rem;
     font-weight: 700;
@@ -34,9 +35,14 @@
     color:aqua;
 }
 .landingPara{
-    font-size: 1.5rem;
-    font-weight: 300;
+    
+   
     color: aliceblue;
+    font-size: 1.2rem;
+    font-weight: 400;
+    max-width: 60rem;
+    padding: 0 2rem;
+    justify-content: center;
 }
 
 .btn{
@@ -60,10 +66,12 @@
 @media screen and (max-width: 840px) {
     
     .landingContent{
-        font-size: 10vw;
+        margin-top: 1cm;
+        margin-bottom: 2cm;
+        font-size: 1vw;
         }
         .hello{
-            font-size: 4.5vw;
+            font-size: 5vw;
         }
         
 }
